@@ -1,3 +1,4 @@
+user account control
 choco: Set-ExecutionPolicy Bypass -Scope Process -Force; iwr https://community.chocolatey.org/install.ps1 -UseBasicParsing | iex
 
 choco install dcplusplus.portable x-mouse-button-control foobar2000 equalizerapo adb
